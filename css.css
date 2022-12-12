@@ -57,8 +57,12 @@ font-weight: 400;
 margin: 0;
 padding: 0;
 font-size: 1.2rem;
+background:url(bj.jpg);
 }
 h1 {
 Color: red;
+text-align:center;
+}
+footer{
 text-align:center;
 }
